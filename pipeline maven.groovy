@@ -17,4 +17,4 @@ pipeline {
 }
 
 
-# DskipTests ia for skipping the test , bcz we have not done integration between backend and database in easy crud project 
+# DskipTests is for skipping the test , bcz we have not done integration between backend and database in easy crud project 
